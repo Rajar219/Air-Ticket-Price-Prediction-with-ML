@@ -1,10 +1,8 @@
-
 # Air Ticket Price Prediction
 
 ## Project Overview
 Air ticket prices fluctuate based on several factors such as airline, journey date, source, destination, duration, and number of stops.
 This project aims to build a **machine learning regression model** that predicts **air ticket prices** using historical flight data.
-
 The notebook demonstrates an **end-to-end data analysis workflow**, including data preprocessing, feature engineering, model training, and evaluation.
 
 ---
@@ -37,7 +35,7 @@ These models help compare baseline performance and understand the impact of regu
 
 ---
 
-##  Project Workflow
+## Project Workflow
 1. Data Loading and Exploration  
 2. Data Cleaning and Handling Missing Values  
 3. Feature Engineering and Encoding  
@@ -56,11 +54,11 @@ Model performance details can be found inside the notebook.
 
 ---
 
-##  Project Structure
-
+## Project Structure
+```
 ├── Air Ticket Price Prediction.ipynb
 ├── README.md
-
+```
 
 ---
 
@@ -78,6 +76,7 @@ cd air-ticket-price-prediction
 3. Open the notebook:
 ```bash
 jupyter notebook "Air Ticket Price Prediction.ipynb"
+```
 
 ---
 
@@ -90,9 +89,9 @@ jupyter notebook "Air Ticket Price Prediction.ipynb"
 ---
 
 ## Author
-**Sivakumar K**  
-B.Sc Computer Science  
-Aspiring Data Analyst | Machine Learning Enthusiast  
+**RAJA R**  
+- Website: [https://rajar219.github.io/bio/](https://rajar219.github.io/bio/)
+- Email: leviraja670@gmail.com
 
 ---
 
