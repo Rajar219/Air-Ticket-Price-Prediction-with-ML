@@ -1,0 +1,501 @@
+Airline,Source,Destination,Total_Stops,Duration,Days_Left,Class,Price
+SpiceJet,Kolkata,Chennai,0,2.0,5,Economy,7136
+Indigo,Mumbai,Bangalore,0,2.9,3,Economy,8021
+SpiceJet,Delhi,Chennai,2,4.9,23,Business,10706
+Indigo,Chennai,Bangalore,0,5.7,6,Economy,9219
+Indigo,Chennai,Delhi,0,2.7,1,Economy,8062
+Indigo,Bangalore,Chennai,1,1.3,9,Economy,5905
+Air Asia,Hyderabad,Mumbai,0,2.0,18,Business,9718
+SpiceJet,Kolkata,Hyderabad,1,4.4,3,Economy,8162
+Air India,Kolkata,Chennai,0,6.1,5,Business,14838
+GoAir,Delhi,Chennai,0,1.4,1,Economy,7248
+Indigo,Bangalore,Hyderabad,1,1.0,11,Business,9049
+Indigo,Delhi,Chennai,1,4.4,8,Economy,7753
+SpiceJet,Chennai,Mumbai,2,5.9,23,Business,11577
+SpiceJet,Bangalore,Chennai,1,1.2,15,Economy,5323
+Air Asia,Mumbai,Delhi,1,4.4,29,Business,10013
+Air India,Kolkata,Bangalore,1,4.1,24,Economy,5762
+Air Asia,Bangalore,Chennai,2,3.7,13,Economy,6498
+Indigo,Bangalore,Chennai,2,6.1,6,Business,13368
+Indigo,Hyderabad,Chennai,0,2.7,11,Economy,6913
+Indigo,Chennai,Delhi,1,4.3,21,Economy,6553
+Vistara,Chennai,Bangalore,1,1.1,22,Business,8120
+Indigo,Mumbai,Delhi,0,3.3,18,Economy,6406
+SpiceJet,Mumbai,Hyderabad,0,5.3,9,Business,13607
+Vistara,Delhi,Chennai,0,4.4,13,Business,12350
+SpiceJet,Kolkata,Bangalore,0,4.0,22,Business,11008
+SpiceJet,Delhi,Kolkata,0,5.9,3,Business,14935
+Air India,Chennai,Kolkata,0,1.6,3,Economy,7288
+Air India,Mumbai,Delhi,1,6.2,16,Economy,8084
+Vistara,Hyderabad,Chennai,0,2.6,17,Economy,6159
+Air India,Delhi,Hyderabad,0,6.4,12,Business,14542
+Air Asia,Chennai,Delhi,1,3.2,19,Business,10233
+Indigo,Delhi,Mumbai,0,2.3,22,Business,9633
+Air India,Kolkata,Hyderabad,1,4.7,12,Economy,7790
+Air Asia,Chennai,Mumbai,0,4.8,25,Business,11805
+Indigo,Hyderabad,Chennai,2,3.0,7,Business,10691
+Vistara,Bangalore,Kolkata,0,4.6,27,Economy,6209
+Air India,Delhi,Bangalore,0,2.1,19,Economy,6183
+Air Asia,Chennai,Hyderabad,1,5.6,30,Business,10894
+Air India,Hyderabad,Kolkata,1,3.4,16,Economy,6762
+Indigo,Kolkata,Hyderabad,2,5.8,11,Business,12813
+SpiceJet,Hyderabad,Bangalore,0,6.3,7,Business,15019
+SpiceJet,Delhi,Hyderabad,1,5.1,26,Business,11091
+Vistara,Delhi,Hyderabad,1,6.5,2,Business,15060
+Air India,Bangalore,Delhi,1,3.3,10,Business,11041
+Air Asia,Mumbai,Delhi,0,2.7,3,Economy,8090
+Air India,Bangalore,Chennai,1,4.7,20,Economy,6630
+SpiceJet,Chennai,Mumbai,2,5.0,6,Business,12026
+SpiceJet,Bangalore,Kolkata,2,3.9,16,Economy,6175
+Indigo,Bangalore,Mumbai,2,1.4,2,Business,9701
+GoAir,Delhi,Hyderabad,1,5.5,12,Economy,7707
+Air India,Kolkata,Delhi,0,4.3,23,Economy,6390
+Indigo,Mumbai,Bangalore,2,2.8,11,Business,9654
+GoAir,Delhi,Chennai,0,3.9,6,Business,13040
+Air India,Bangalore,Kolkata,2,4.6,22,Economy,6277
+Indigo,Hyderabad,Chennai,2,2.4,10,Business,9438
+Air Asia,Kolkata,Delhi,0,5.7,29,Economy,6893
+Air India,Delhi,Chennai,0,6.2,15,Economy,8585
+Air India,Hyderabad,Chennai,2,2.7,18,Business,8887
+SpiceJet,Chennai,Kolkata,1,2.4,19,Business,9389
+Indigo,Kolkata,Bangalore,2,4.8,3,Business,12651
+SpiceJet,Delhi,Hyderabad,2,2.9,25,Economy,4970
+Air India,Bangalore,Mumbai,0,2.5,16,Economy,6333
+Air India,Hyderabad,Delhi,2,2.8,26,Business,8412
+Indigo,Hyderabad,Delhi,0,5.9,21,Business,12895
+Air Asia,Mumbai,Chennai,0,2.1,2,Economy,7557
+Vistara,Chennai,Mumbai,0,1.6,27,Business,8769
+Air Asia,Mumbai,Delhi,2,6.0,18,Economy,6943
+Vistara,Kolkata,Mumbai,0,2.9,25,Economy,5983
+SpiceJet,Hyderabad,Mumbai,2,5.8,6,Business,13080
+Vistara,Kolkata,Chennai,1,2.6,20,Business,9180
+GoAir,Kolkata,Mumbai,2,1.1,15,Economy,5221
+Vistara,Bangalore,Chennai,2,2.3,26,Economy,4272
+Vistara,Mumbai,Chennai,0,5.3,23,Economy,7175
+Air India,Bangalore,Delhi,1,3.0,28,Economy,5168
+Indigo,Kolkata,Bangalore,0,1.7,7,Business,10532
+Indigo,Mumbai,Hyderabad,0,4.2,26,Business,11145
+Indigo,Delhi,Bangalore,2,3.2,5,Business,10731
+Indigo,Bangalore,Kolkata,0,3.0,26,Business,9965
+Vistara,Delhi,Bangalore,0,3.5,19,Business,11214
+Air India,Hyderabad,Bangalore,0,2.8,28,Economy,5619
+Vistara,Bangalore,Mumbai,1,4.6,11,Economy,7893
+Air India,Kolkata,Hyderabad,2,1.7,28,Economy,3940
+Indigo,Mumbai,Delhi,0,1.4,13,Business,9880
+Indigo,Chennai,Bangalore,2,4.8,27,Business,10183
+Air India,Mumbai,Kolkata,0,5.0,30,Business,11602
+SpiceJet,Delhi,Kolkata,0,1.8,1,Business,11410
+SpiceJet,Bangalore,Delhi,0,2.7,28,Economy,5345
+Air India,Hyderabad,Mumbai,0,5.0,1,Economy,9301
+Indigo,Kolkata,Chennai,1,2.5,24,Business,8819
+Vistara,Bangalore,Mumbai,1,1.9,15,Economy,5657
+Vistara,Hyderabad,Delhi,0,3.4,1,Economy,8539
+Indigo,Kolkata,Mumbai,2,5.3,5,Economy,8038
+GoAir,Hyderabad,Delhi,1,2.9,15,Business,10078
+SpiceJet,Kolkata,Delhi,2,5.7,9,Economy,7825
+Air Asia,Kolkata,Delhi,0,4.1,25,Economy,6165
+Air India,Bangalore,Delhi,0,2.9,19,Economy,6134
+SpiceJet,Delhi,Chennai,0,5.7,5,Economy,9202
+GoAir,Kolkata,Bangalore,1,6.2,11,Business,13862
+SpiceJet,Delhi,Chennai,0,1.8,14,Business,10311
+Air India,Kolkata,Mumbai,0,1.1,21,Economy,5215
+Air India,Chennai,Mumbai,0,2.1,3,Economy,7580
+Indigo,Chennai,Bangalore,0,2.1,10,Business,10767
+GoAir,Chennai,Kolkata,1,4.1,10,Economy,7303
+Air India,Chennai,Kolkata,1,4.6,28,Economy,6184
+SpiceJet,Delhi,Mumbai,1,2.9,17,Business,10025
+SpiceJet,Bangalore,Chennai,2,1.4,12,Business,8690
+SpiceJet,Delhi,Hyderabad,1,3.1,3,Economy,7685
+Air India,Hyderabad,Kolkata,2,6.3,18,Economy,7081
+GoAir,Kolkata,Delhi,0,3.2,22,Business,10501
+Air India,Mumbai,Delhi,1,5.7,27,Economy,6766
+Indigo,Chennai,Bangalore,2,4.1,17,Business,10359
+Air Asia,Hyderabad,Delhi,1,3.1,25,Business,9193
+Vistara,Bangalore,Hyderabad,1,5.6,26,Business,11680
+GoAir,Delhi,Chennai,0,2.3,20,Economy,6214
+SpiceJet,Kolkata,Bangalore,1,3.8,27,Business,9671
+Air Asia,Mumbai,Chennai,1,1.8,5,Economy,6638
+GoAir,Bangalore,Delhi,2,2.6,21,Business,8798
+GoAir,Kolkata,Hyderabad,1,4.2,3,Business,12334
+Indigo,Mumbai,Delhi,1,5.1,7,Business,13257
+Vistara,Hyderabad,Kolkata,1,3.0,12,Business,10440
+Air India,Delhi,Mumbai,1,6.5,19,Business,13022
+Vistara,Hyderabad,Mumbai,1,2.3,4,Economy,6973
+SpiceJet,Bangalore,Chennai,1,2.6,12,Business,10435
+Air Asia,Delhi,Kolkata,1,4.8,11,Economy,7871
+Air Asia,Hyderabad,Delhi,0,1.9,11,Economy,6462
+GoAir,Delhi,Chennai,0,2.6,17,Economy,6134
+GoAir,Delhi,Hyderabad,0,1.9,10,Economy,6482
+SpiceJet,Bangalore,Mumbai,0,1.9,12,Business,10371
+GoAir,Hyderabad,Chennai,2,3.6,3,Economy,7675
+Vistara,Bangalore,Mumbai,0,4.3,7,Business,12954
+Air India,Delhi,Chennai,0,2.7,4,Business,11897
+Indigo,Delhi,Mumbai,0,1.1,7,Business,10385
+GoAir,Bangalore,Delhi,0,2.6,25,Business,9952
+Air India,Bangalore,Mumbai,2,3.8,24,Economy,5565
+GoAir,Chennai,Bangalore,0,2.5,2,Business,11969
+SpiceJet,Kolkata,Chennai,2,2.8,10,Economy,6659
+GoAir,Bangalore,Delhi,0,2.7,18,Business,10558
+Air Asia,Chennai,Hyderabad,0,2.1,25,Business,9374
+Air India,Chennai,Kolkata,0,2.2,11,Business,10581
+Air Asia,Chennai,Hyderabad,1,2.2,19,Economy,5522
+SpiceJet,Mumbai,Chennai,2,4.0,21,Business,10171
+Air India,Kolkata,Chennai,1,5.7,6,Business,13462
+Indigo,Mumbai,Bangalore,0,4.8,17,Economy,7310
+Indigo,Kolkata,Mumbai,2,2.9,7,Business,10183
+Air Asia,Mumbai,Bangalore,0,5.9,3,Business,15148
+GoAir,Mumbai,Hyderabad,0,2.6,22,Economy,5868
+GoAir,Chennai,Hyderabad,1,5.2,5,Economy,8424
+GoAir,Chennai,Kolkata,2,4.1,30,Business,9034
+GoAir,Delhi,Hyderabad,2,1.3,11,Economy,5825
+SpiceJet,Bangalore,Delhi,1,1.5,20,Business,8639
+Indigo,Chennai,Delhi,0,3.9,15,Economy,7284
+SpiceJet,Bangalore,Delhi,0,4.7,30,Economy,6088
+Indigo,Bangalore,Kolkata,0,1.7,5,Economy,7001
+Indigo,Delhi,Mumbai,2,5.8,11,Business,12754
+Vistara,Bangalore,Mumbai,0,4.3,22,Business,11543
+GoAir,Hyderabad,Bangalore,0,1.2,12,Business,9669
+SpiceJet,Bangalore,Chennai,1,2.6,27,Business,8843
+SpiceJet,Kolkata,Mumbai,2,4.3,22,Business,10329
+Air Asia,Mumbai,Bangalore,1,4.5,13,Economy,7580
+GoAir,Mumbai,Hyderabad,0,5.9,25,Business,12639
+Vistara,Kolkata,Hyderabad,0,1.1,23,Economy,4955
+GoAir,Hyderabad,Bangalore,1,1.7,4,Economy,6566
+Indigo,Kolkata,Hyderabad,2,6.0,19,Business,11838
+Indigo,Mumbai,Bangalore,0,2.0,22,Business,9555
+Vistara,Mumbai,Hyderabad,1,1.3,30,Business,7577
+SpiceJet,Chennai,Hyderabad,2,6.0,27,Business,10984
+Indigo,Mumbai,Bangalore,2,6.2,14,Business,12299
+Indigo,Chennai,Delhi,0,4.7,5,Economy,8641
+Air Asia,Bangalore,Delhi,1,3.2,13,Business,10893
+Indigo,Mumbai,Kolkata,0,2.3,15,Economy,6161
+SpiceJet,Hyderabad,Delhi,1,4.7,8,Economy,8024
+Air India,Mumbai,Kolkata,2,3.6,12,Business,10472
+Air India,Bangalore,Kolkata,0,4.5,1,Business,13946
+Vistara,Mumbai,Kolkata,0,3.4,7,Economy,7631
+Indigo,Mumbai,Kolkata,1,1.0,17,Business,8083
+SpiceJet,Kolkata,Mumbai,0,6.0,20,Business,12993
+Vistara,Hyderabad,Kolkata,0,1.3,3,Economy,7250
+GoAir,Bangalore,Delhi,0,4.3,28,Economy,6387
+Vistara,Kolkata,Mumbai,2,2.3,2,Economy,7047
+Vistara,Chennai,Delhi,0,2.7,30,Business,9425
+GoAir,Kolkata,Bangalore,0,4.3,19,Economy,6772
+SpiceJet,Delhi,Hyderabad,1,3.8,24,Business,10002
+Vistara,Hyderabad,Chennai,2,3.9,5,Economy,7627
+Vistara,Bangalore,Mumbai,1,3.8,20,Business,10691
+GoAir,Kolkata,Delhi,2,4.9,14,Business,11650
+SpiceJet,Bangalore,Delhi,0,2.3,18,Economy,6402
+GoAir,Delhi,Bangalore,2,4.4,1,Business,12030
+Indigo,Chennai,Delhi,2,1.8,4,Economy,6370
+Air India,Kolkata,Delhi,0,4.5,24,Economy,6888
+Air Asia,Delhi,Chennai,0,5.4,7,Economy,8882
+Vistara,Bangalore,Mumbai,0,5.6,5,Business,14585
+Vistara,Hyderabad,Mumbai,1,5.8,15,Economy,7803
+Indigo,Bangalore,Delhi,0,5.8,26,Business,12537
+SpiceJet,Mumbai,Hyderabad,2,1.5,10,Economy,5589
+Vistara,Delhi,Hyderabad,0,1.5,14,Business,9599
+GoAir,Bangalore,Delhi,2,1.5,30,Business,6926
+GoAir,Delhi,Kolkata,1,5.1,28,Economy,6396
+Vistara,Mumbai,Chennai,0,5.2,2,Business,14188
+Vistara,Hyderabad,Mumbai,1,1.6,23,Economy,4799
+GoAir,Bangalore,Delhi,2,2.4,15,Economy,5886
+Air India,Bangalore,Hyderabad,2,4.2,11,Business,10788
+SpiceJet,Bangalore,Hyderabad,0,2.1,28,Economy,4824
+Air Asia,Hyderabad,Chennai,0,3.7,25,Business,10396
+SpiceJet,Delhi,Bangalore,0,6.3,23,Economy,7368
+Air Asia,Chennai,Mumbai,2,4.4,9,Economy,7131
+SpiceJet,Chennai,Bangalore,0,3.9,12,Economy,7728
+Air Asia,Delhi,Hyderabad,0,4.7,10,Business,12978
+GoAir,Mumbai,Kolkata,2,1.8,16,Economy,5495
+Indigo,Mumbai,Hyderabad,1,2.7,3,Economy,7578
+Air Asia,Bangalore,Hyderabad,2,5.8,18,Business,11543
+SpiceJet,Chennai,Kolkata,1,3.3,4,Business,11395
+SpiceJet,Delhi,Kolkata,0,6.3,16,Business,13875
+GoAir,Chennai,Mumbai,2,1.6,11,Business,8782
+Indigo,Mumbai,Hyderabad,0,4.1,30,Business,10480
+Vistara,Kolkata,Chennai,2,5.1,10,Economy,7350
+Air India,Kolkata,Hyderabad,1,1.5,8,Economy,6262
+SpiceJet,Bangalore,Kolkata,0,2.6,3,Business,12177
+Air India,Kolkata,Chennai,0,6.0,8,Business,14686
+Vistara,Bangalore,Mumbai,2,3.0,16,Business,9507
+Indigo,Mumbai,Chennai,1,3.9,14,Business,11024
+Indigo,Hyderabad,Kolkata,1,1.3,23,Economy,4729
+GoAir,Hyderabad,Chennai,0,5.3,7,Business,13893
+Vistara,Mumbai,Chennai,1,4.5,1,Economy,8267
+GoAir,Mumbai,Chennai,0,3.7,8,Economy,7575
+GoAir,Delhi,Bangalore,0,3.6,5,Economy,8225
+Air Asia,Kolkata,Hyderabad,2,1.8,2,Business,9824
+Air Asia,Kolkata,Mumbai,0,1.9,28,Business,8963
+Air Asia,Chennai,Kolkata,1,1.8,9,Business,9974
+Indigo,Mumbai,Delhi,0,3.5,5,Economy,7808
+GoAir,Delhi,Hyderabad,1,4.2,14,Business,11257
+GoAir,Chennai,Kolkata,0,3.0,14,Business,11321
+Vistara,Mumbai,Hyderabad,1,3.8,9,Economy,7494
+Air India,Mumbai,Bangalore,0,1.1,24,Business,8178
+Indigo,Mumbai,Kolkata,1,3.1,22,Economy,5546
+Air India,Kolkata,Bangalore,2,6.1,26,Economy,6665
+Air India,Kolkata,Chennai,0,6.5,2,Economy,9994
+Indigo,Chennai,Bangalore,1,3.2,25,Business,9436
+Indigo,Kolkata,Mumbai,2,5.4,15,Business,11824
+Air Asia,Mumbai,Hyderabad,2,3.3,7,Economy,6849
+SpiceJet,Kolkata,Bangalore,2,2.2,1,Business,10002
+GoAir,Mumbai,Chennai,0,1.3,21,Business,8897
+Air India,Chennai,Delhi,1,5.1,17,Economy,7457
+Indigo,Delhi,Bangalore,0,6.5,20,Business,13768
+Vistara,Mumbai,Delhi,0,4.6,12,Economy,7827
+Air Asia,Bangalore,Mumbai,2,2.6,30,Economy,4343
+SpiceJet,Kolkata,Mumbai,0,6.4,22,Business,13581
+SpiceJet,Mumbai,Hyderabad,2,6.2,16,Economy,7336
+Air India,Bangalore,Hyderabad,0,4.6,22,Economy,6903
+Air Asia,Hyderabad,Kolkata,1,3.6,6,Economy,7390
+SpiceJet,Kolkata,Chennai,0,5.1,3,Economy,8923
+GoAir,Bangalore,Chennai,0,4.9,8,Economy,8533
+Air Asia,Hyderabad,Delhi,1,2.8,22,Economy,5744
+Indigo,Kolkata,Chennai,0,2.1,21,Business,9668
+Air Asia,Bangalore,Kolkata,0,3.3,4,Economy,8255
+GoAir,Hyderabad,Delhi,2,5.0,1,Business,12788
+GoAir,Kolkata,Bangalore,1,2.6,2,Business,11082
+GoAir,Kolkata,Bangalore,1,4.0,9,Economy,7628
+Indigo,Kolkata,Bangalore,0,2.7,13,Business,10938
+Vistara,Delhi,Chennai,2,2.4,1,Economy,7224
+Indigo,Chennai,Hyderabad,2,6.0,15,Economy,7588
+Air India,Chennai,Delhi,2,5.2,7,Economy,7712
+GoAir,Hyderabad,Kolkata,1,4.1,21,Business,10900
+Indigo,Mumbai,Chennai,0,2.4,8,Business,11376
+GoAir,Chennai,Delhi,0,3.4,24,Economy,6035
+Indigo,Kolkata,Chennai,2,5.2,15,Business,11864
+Air Asia,Kolkata,Delhi,2,6.4,30,Economy,6438
+Air Asia,Hyderabad,Chennai,2,4.2,19,Economy,5908
+GoAir,Hyderabad,Delhi,0,1.0,10,Economy,6194
+Air India,Bangalore,Delhi,2,2.7,15,Business,9294
+Indigo,Chennai,Mumbai,0,2.0,2,Economy,7815
+Air India,Delhi,Hyderabad,2,6.5,6,Business,13494
+GoAir,Kolkata,Mumbai,1,1.1,8,Economy,6050
+SpiceJet,Chennai,Bangalore,0,2.9,4,Economy,7762
+Vistara,Mumbai,Hyderabad,2,1.7,27,Economy,4007
+Indigo,Chennai,Delhi,2,3.4,28,Business,8627
+Vistara,Chennai,Kolkata,2,1.4,17,Economy,4824
+Vistara,Kolkata,Hyderabad,1,3.7,30,Economy,5355
+GoAir,Delhi,Chennai,0,4.6,6,Economy,8450
+SpiceJet,Delhi,Hyderabad,2,1.7,10,Economy,5763
+Air Asia,Bangalore,Hyderabad,0,5.1,3,Economy,8997
+GoAir,Chennai,Hyderabad,0,5.3,12,Economy,8335
+Air Asia,Mumbai,Chennai,1,2.0,12,Business,9498
+SpiceJet,Bangalore,Kolkata,0,1.5,15,Business,9406
+GoAir,Kolkata,Hyderabad,1,3.1,20,Economy,6066
+Indigo,Chennai,Hyderabad,2,2.3,25,Economy,4876
+Vistara,Hyderabad,Mumbai,1,4.8,17,Business,11701
+Indigo,Bangalore,Kolkata,2,5.6,1,Economy,8783
+SpiceJet,Delhi,Chennai,1,3.4,22,Economy,5825
+GoAir,Hyderabad,Bangalore,0,4.6,27,Business,11104
+Air India,Kolkata,Delhi,0,6.5,18,Business,14130
+GoAir,Hyderabad,Chennai,0,5.1,10,Business,13192
+SpiceJet,Mumbai,Bangalore,1,3.4,19,Economy,6111
+SpiceJet,Bangalore,Chennai,0,2.7,2,Business,12003
+Vistara,Bangalore,Mumbai,2,6.0,25,Business,11446
+Air Asia,Kolkata,Delhi,2,1.3,23,Business,7059
+GoAir,Delhi,Kolkata,0,2.0,5,Economy,7305
+Indigo,Delhi,Bangalore,0,1.3,26,Business,8593
+SpiceJet,Mumbai,Hyderabad,1,6.4,29,Economy,6711
+GoAir,Chennai,Bangalore,0,1.9,18,Economy,6246
+Air India,Kolkata,Chennai,2,3.6,19,Economy,6082
+GoAir,Chennai,Kolkata,1,2.7,17,Business,10063
+GoAir,Hyderabad,Mumbai,0,4.3,15,Business,12343
+Indigo,Chennai,Delhi,1,2.3,2,Economy,7609
+Vistara,Kolkata,Chennai,2,4.3,3,Economy,8064
+Air India,Bangalore,Chennai,1,2.6,4,Economy,7477
+SpiceJet,Delhi,Chennai,1,5.5,12,Economy,7650
+Air India,Bangalore,Chennai,1,1.9,26,Business,8182
+Air India,Delhi,Chennai,2,4.4,10,Economy,7071
+Air Asia,Delhi,Bangalore,1,5.0,5,Economy,8124
+Air India,Mumbai,Chennai,2,2.0,8,Business,9254
+Air Asia,Delhi,Bangalore,1,2.1,23,Economy,5433
+GoAir,Delhi,Chennai,2,2.3,9,Business,9738
+Air Asia,Mumbai,Hyderabad,1,5.5,4,Economy,8885
+Indigo,Kolkata,Delhi,2,1.9,11,Economy,6030
+Air Asia,Chennai,Mumbai,2,3.1,19,Business,9448
+Air Asia,Chennai,Mumbai,0,5.1,17,Economy,7890
+Air India,Bangalore,Delhi,0,1.9,27,Economy,4792
+Air India,Bangalore,Kolkata,2,1.4,27,Business,6870
+Air Asia,Mumbai,Kolkata,0,5.7,30,Business,11972
+Vistara,Bangalore,Hyderabad,0,2.8,30,Economy,4970
+Air India,Delhi,Bangalore,2,1.0,15,Business,7971
+Vistara,Kolkata,Hyderabad,0,1.4,7,Business,10215
+Indigo,Chennai,Kolkata,1,3.6,13,Business,11101
+Air India,Kolkata,Bangalore,1,4.7,13,Economy,7193
+GoAir,Hyderabad,Bangalore,2,4.4,28,Business,9632
+GoAir,Chennai,Bangalore,2,3.5,25,Economy,5082
+Vistara,Kolkata,Delhi,0,1.8,7,Business,10653
+Indigo,Kolkata,Delhi,2,2.8,29,Business,8042
+Indigo,Mumbai,Hyderabad,1,5.0,19,Business,11579
+SpiceJet,Hyderabad,Mumbai,0,4.2,28,Business,11033
+SpiceJet,Bangalore,Hyderabad,0,5.4,25,Economy,7169
+Indigo,Bangalore,Hyderabad,2,1.4,23,Economy,4455
+Air India,Bangalore,Kolkata,1,6.4,18,Business,13284
+Air Asia,Bangalore,Delhi,0,6.1,19,Economy,8093
+Vistara,Mumbai,Chennai,2,2.2,5,Business,9874
+Air Asia,Kolkata,Hyderabad,0,5.3,10,Economy,8345
+Indigo,Chennai,Delhi,2,5.2,2,Economy,8153
+Air India,Bangalore,Chennai,0,6.0,23,Economy,7258
+Vistara,Delhi,Chennai,2,1.6,24,Business,7705
+GoAir,Delhi,Hyderabad,0,2.8,27,Business,9617
+GoAir,Bangalore,Hyderabad,0,6.2,25,Business,12643
+Air Asia,Hyderabad,Kolkata,1,1.2,6,Economy,6640
+SpiceJet,Mumbai,Chennai,0,3.5,3,Economy,8100
+Air India,Mumbai,Bangalore,0,5.2,24,Economy,7094
+Air India,Delhi,Hyderabad,1,1.8,6,Economy,6456
+GoAir,Delhi,Kolkata,2,3.1,18,Business,9378
+Air Asia,Kolkata,Delhi,1,2.1,16,Economy,5591
+Indigo,Mumbai,Hyderabad,0,6.4,26,Business,13251
+Vistara,Chennai,Kolkata,0,1.9,17,Economy,6330
+GoAir,Hyderabad,Delhi,2,4.5,24,Economy,6078
+GoAir,Kolkata,Chennai,1,3.7,21,Business,10492
+Air India,Hyderabad,Mumbai,1,2.6,2,Economy,7527
+Vistara,Bangalore,Chennai,1,4.3,2,Business,12503
+Air Asia,Hyderabad,Delhi,1,4.0,17,Business,11161
+Air Asia,Chennai,Kolkata,2,5.6,17,Economy,7177
+Air India,Kolkata,Mumbai,0,2.1,22,Economy,5354
+Air Asia,Chennai,Bangalore,2,5.8,26,Economy,6108
+Air India,Mumbai,Hyderabad,0,5.7,2,Economy,9516
+SpiceJet,Kolkata,Delhi,0,5.7,23,Business,12383
+Air Asia,Kolkata,Mumbai,1,2.8,15,Economy,6530
+GoAir,Kolkata,Delhi,2,2.7,20,Business,8568
+Vistara,Bangalore,Mumbai,1,1.9,21,Economy,5420
+GoAir,Delhi,Mumbai,2,2.7,5,Business,10298
+GoAir,Hyderabad,Delhi,0,4.6,27,Business,11407
+Indigo,Delhi,Chennai,1,1.2,16,Economy,5370
+SpiceJet,Hyderabad,Bangalore,2,1.5,27,Business,7011
+Vistara,Bangalore,Hyderabad,1,3.8,14,Economy,6736
+Indigo,Delhi,Chennai,0,2.6,15,Economy,6833
+Indigo,Chennai,Kolkata,0,1.6,4,Business,10775
+Air India,Kolkata,Bangalore,1,1.2,14,Business,8579
+GoAir,Mumbai,Bangalore,1,2.8,8,Business,10587
+Indigo,Hyderabad,Bangalore,0,3.1,5,Economy,8103
+SpiceJet,Delhi,Chennai,2,4.7,11,Business,11498
+Vistara,Kolkata,Chennai,0,3.6,4,Business,12649
+Indigo,Mumbai,Delhi,0,3.9,22,Business,11081
+Indigo,Mumbai,Delhi,0,4.1,8,Economy,8046
+Air Asia,Delhi,Mumbai,2,5.2,29,Economy,5401
+Indigo,Kolkata,Bangalore,1,1.1,27,Economy,4046
+SpiceJet,Kolkata,Bangalore,0,3.7,8,Business,12447
+Vistara,Kolkata,Hyderabad,0,4.0,26,Economy,5966
+Indigo,Delhi,Chennai,1,3.9,17,Business,11068
+Air India,Delhi,Hyderabad,0,6.0,19,Economy,7775
+SpiceJet,Kolkata,Delhi,1,3.4,7,Business,11327
+Vistara,Hyderabad,Kolkata,0,3.9,21,Economy,6714
+Air India,Bangalore,Hyderabad,1,3.9,15,Business,11162
+SpiceJet,Mumbai,Kolkata,1,3.4,7,Economy,7279
+Indigo,Mumbai,Bangalore,0,4.3,4,Business,13187
+Air Asia,Bangalore,Hyderabad,2,5.4,16,Business,11726
+GoAir,Delhi,Mumbai,1,5.9,8,Business,13781
+Air India,Kolkata,Delhi,1,4.2,6,Business,12371
+SpiceJet,Kolkata,Mumbai,2,2.8,10,Business,9992
+GoAir,Bangalore,Mumbai,0,5.9,26,Economy,7000
+Indigo,Mumbai,Delhi,2,2.4,11,Business,9204
+GoAir,Chennai,Mumbai,1,3.0,27,Business,9252
+Air India,Bangalore,Delhi,2,3.1,30,Economy,4547
+Air India,Chennai,Kolkata,2,2.6,23,Economy,4932
+GoAir,Kolkata,Hyderabad,1,5.3,5,Business,13114
+SpiceJet,Hyderabad,Kolkata,0,2.1,30,Economy,4845
+Air India,Delhi,Kolkata,2,5.2,20,Economy,6582
+Indigo,Hyderabad,Kolkata,2,6.0,22,Business,11430
+Air Asia,Mumbai,Delhi,1,4.7,4,Economy,8432
+GoAir,Mumbai,Kolkata,1,5.5,12,Business,12886
+GoAir,Mumbai,Hyderabad,2,5.7,3,Economy,8609
+Air Asia,Chennai,Bangalore,1,6.1,16,Business,12884
+GoAir,Mumbai,Chennai,1,5.3,19,Business,12251
+GoAir,Delhi,Hyderabad,1,6.0,3,Economy,9159
+SpiceJet,Kolkata,Bangalore,2,3.4,21,Economy,5588
+Air India,Mumbai,Delhi,2,2.0,22,Economy,5063
+Vistara,Kolkata,Mumbai,0,1.3,2,Business,10971
+SpiceJet,Chennai,Mumbai,0,4.7,10,Business,12799
+Air Asia,Hyderabad,Bangalore,1,2.2,5,Business,10369
+Vistara,Mumbai,Chennai,0,3.2,28,Economy,5661
+Air India,Kolkata,Bangalore,1,1.9,7,Business,9946
+Air India,Chennai,Bangalore,2,1.8,2,Economy,6871
+Indigo,Hyderabad,Delhi,2,2.3,6,Business,9857
+Vistara,Hyderabad,Bangalore,2,6.4,15,Economy,7485
+Air Asia,Chennai,Kolkata,2,2.9,14,Economy,6170
+SpiceJet,Hyderabad,Chennai,0,6.0,1,Economy,9980
+Vistara,Kolkata,Mumbai,1,1.9,7,Business,9972
+GoAir,Chennai,Bangalore,0,2.3,20,Business,9899
+SpiceJet,Delhi,Kolkata,1,4.5,20,Business,10878
+Vistara,Bangalore,Mumbai,1,6.0,25,Business,11891
+GoAir,Hyderabad,Kolkata,1,6.4,29,Economy,6770
+GoAir,Hyderabad,Delhi,0,2.6,1,Economy,8098
+SpiceJet,Chennai,Delhi,0,4.5,24,Business,11291
+Indigo,Mumbai,Bangalore,0,4.9,17,Business,12483
+Air Asia,Hyderabad,Mumbai,0,3.7,23,Business,10608
+GoAir,Kolkata,Hyderabad,1,4.4,2,Business,13101
+SpiceJet,Mumbai,Hyderabad,1,3.2,28,Economy,5492
+SpiceJet,Bangalore,Mumbai,0,5.8,21,Business,12736
+GoAir,Kolkata,Bangalore,0,5.9,24,Business,12745
+Air India,Delhi,Chennai,0,6.1,25,Business,12971
+Air India,Bangalore,Delhi,1,5.2,12,Economy,7923
+Air India,Mumbai,Hyderabad,2,3.1,14,Business,9912
+SpiceJet,Delhi,Kolkata,1,6.1,24,Business,11961
+GoAir,Kolkata,Mumbai,1,3.7,28,Business,9733
+Air Asia,Hyderabad,Kolkata,1,6.1,6,Business,13883
+SpiceJet,Kolkata,Bangalore,0,3.4,28,Economy,5915
+Vistara,Bangalore,Kolkata,0,1.1,14,Economy,5977
+Air India,Mumbai,Kolkata,2,4.9,28,Economy,5795
+Air India,Delhi,Chennai,0,4.8,24,Business,11785
+Air Asia,Mumbai,Bangalore,2,2.1,15,Business,9040
+Air India,Mumbai,Delhi,1,5.8,21,Economy,7095
+Air India,Mumbai,Hyderabad,2,6.3,10,Economy,8275
+GoAir,Mumbai,Bangalore,2,1.4,30,Business,6697
+Indigo,Hyderabad,Mumbai,1,3.2,1,Economy,8140
+SpiceJet,Bangalore,Kolkata,2,5.7,11,Economy,7642
+Air India,Chennai,Bangalore,1,5.2,18,Economy,6980
+GoAir,Delhi,Bangalore,2,3.5,13,Business,10232
+SpiceJet,Hyderabad,Kolkata,2,4.8,20,Economy,6252
+GoAir,Hyderabad,Mumbai,0,1.9,26,Business,9037
+SpiceJet,Kolkata,Mumbai,2,4.2,19,Business,10061
+Vistara,Kolkata,Mumbai,2,3.1,22,Business,9076
+Air India,Chennai,Bangalore,2,1.9,1,Business,10175
+Air India,Kolkata,Hyderabad,0,4.3,18,Business,11713
+Vistara,Kolkata,Bangalore,0,2.4,2,Economy,8085
+Vistara,Hyderabad,Mumbai,0,4.9,14,Economy,8008
+Air Asia,Chennai,Kolkata,1,2.3,13,Business,9658
+SpiceJet,Hyderabad,Kolkata,0,4.4,6,Economy,8113
+Air India,Kolkata,Bangalore,2,4.5,10,Business,11381
+GoAir,Delhi,Mumbai,2,3.0,17,Business,9540
+Air Asia,Bangalore,Chennai,1,2.2,20,Economy,5711
+SpiceJet,Bangalore,Hyderabad,1,3.6,28,Economy,5328
+Vistara,Kolkata,Bangalore,2,2.2,10,Economy,6180
+Vistara,Mumbai,Bangalore,0,3.8,8,Economy,7865
+Indigo,Hyderabad,Kolkata,0,4.0,4,Business,13216
+SpiceJet,Delhi,Hyderabad,0,4.9,3,Economy,9029
+Air Asia,Mumbai,Kolkata,1,3.3,16,Business,10605
+GoAir,Bangalore,Kolkata,2,2.9,3,Economy,6997
+Air Asia,Bangalore,Chennai,2,5.9,25,Economy,6163
+Vistara,Hyderabad,Chennai,2,2.7,1,Economy,7395
+Indigo,Mumbai,Bangalore,1,3.8,6,Business,11934
+Vistara,Kolkata,Delhi,1,2.9,6,Economy,7179
+Air India,Kolkata,Bangalore,0,6.2,27,Economy,7287
+Indigo,Kolkata,Bangalore,0,2.3,22,Economy,5642
+Vistara,Chennai,Delhi,2,6.3,1,Economy,9001
+GoAir,Hyderabad,Mumbai,1,2.8,19,Business,9577
+Air India,Mumbai,Bangalore,2,3.5,13,Business,10525
+GoAir,Bangalore,Delhi,1,3.8,13,Economy,7153
+Air India,Kolkata,Bangalore,0,4.8,8,Business,13321
+Indigo,Mumbai,Chennai,1,3.6,18,Business,10403
+Indigo,Delhi,Chennai,1,4.5,2,Business,12845
+Air India,Mumbai,Bangalore,0,6.2,2,Economy,9649
+Indigo,Kolkata,Hyderabad,1,5.3,7,Business,12957
+SpiceJet,Hyderabad,Mumbai,1,5.1,23,Business,11645
+SpiceJet,Mumbai,Hyderabad,2,5.9,11,Economy,7906
+GoAir,Bangalore,Kolkata,2,4.4,11,Economy,7279
+Vistara,Kolkata,Hyderabad,1,6.4,15,Business,13230
+Indigo,Hyderabad,Mumbai,1,2.0,13,Economy,6266
+Vistara,Hyderabad,Mumbai,0,4.4,1,Business,13774
+Indigo,Mumbai,Hyderabad,1,6.1,15,Business,13332
+Vistara,Hyderabad,Mumbai,2,2.7,9,Business,9785
+Air India,Mumbai,Hyderabad,0,5.8,12,Business,13795
+Vistara,Chennai,Mumbai,2,4.8,3,Economy,7960
+Air Asia,Mumbai,Delhi,2,6.0,28,Economy,6343
+Air India,Hyderabad,Mumbai,2,1.9,24,Economy,4746
+Air India,Chennai,Bangalore,0,2.7,14,Business,10984
+SpiceJet,Delhi,Hyderabad,0,3.2,5,Business,11975
+Indigo,Hyderabad,Bangalore,1,3.2,12,Business,10987
+Vistara,Mumbai,Bangalore,1,4.4,5,Business,12462
